@@ -9,7 +9,7 @@
 
 <body>
   <div class="container">
-    <?php include('assets/connect.php'); ?>
+    <?php include('assets/alert_captcha.php'); ?>
     <!-- Captcha error message -->
     <?php if(!empty($captchaError)) {?>
       <div class="form-group text-center">
