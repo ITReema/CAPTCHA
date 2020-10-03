@@ -1,7 +1,7 @@
 # CAPTCHA
 Simple Text_Based CAPTCHA
 
-## Screen Shot
+## Screenshots
 <p align="center">
 <img width="300” alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/94979689-e4304280-052c-11eb-84ae-7744a3c77d6d.png">
 </p>
