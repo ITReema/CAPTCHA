@@ -25,7 +25,7 @@
       </div>
       <div class="form-group">
         <label for="captcha">Type the charecters above:</label>
-        <input type="text" class="form-control" name="captcha" id="captcha">
+        <input type="text" class="form-control captcha" name="captcha" id="captcha">
       </div>
       <input type="submit" name="submit" value="Submit" class="btn btn-dark btn-block">
     </form>
