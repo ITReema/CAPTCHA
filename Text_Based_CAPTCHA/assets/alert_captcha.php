@@ -4,22 +4,22 @@ if(!empty($_POST["submit"])) {
   $captcha = $_POST["captcha"];
 
   //alert captcha status
-  $captchaUser = filter_var($_POST["captcha"], FILTER_SANITIZE_STRING);
+  $captcha_text = $_POST["captcha"];
   if(empty($captcha)) {
     $captchaError = array(
       "status" => "alert-danger",
-      "message" => "Please enter the captcha."
+      "alert" => "Please enter the captcha."
     );
   }
-  else if($_SESSION['CAPTCHA_CODE'] == $captchaUser){
+  else if($_SESSION['captcha'] == $captcha_text){
     $captchaError = array(
       "status" => "alert-success",
-      "message" => "Correct Captcha."
+      "alert" => "Correct Captcha."
     );
   } else {
     $captchaError = array(
       "status" => "alert-danger",
-      "message" => "Invalid Captcha."
+      "alert" => "Invalid Captcha."
     );
   }
 }  

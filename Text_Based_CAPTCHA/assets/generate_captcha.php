@@ -3,11 +3,11 @@ session_start();
 
 // Generate captcha code
 $lenght = 6;
-$random_char = generateString($lenght);
-$captcha_code  = substr($random_char, 0, $lenght);
+$random_chars = generateString($lenght);
+$captcha_code  = substr($random_chars, 0, $lenght);
 
 // Assign captcha in session
-$_SESSION['CAPTCHA_CODE'] = $captcha_code;
+$_SESSION['captcha'] = $captcha_code;
 
 // Create captcha image 
 $image_captcha = imagecreatetruecolor(285, 40);
@@ -19,11 +19,11 @@ imagejpeg($image_captcha);
 
 // Generate captcha string
 function generateString($length) {
-  $include_chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ[{(!@#$%^/&*_+;?\:)}]";
-  $charLength = strlen($include_chars);
+  $chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789[{(!@#$%^/&*_+;?\:)}]";
+  $charLength = strlen($chars);
   $randomString = '';
   for ($i = 0; $i < $length; $i++) {
-      $randomString .= $include_chars [rand(0, $charLength - 1)];
+      $randomString .= $chars [rand(0, $charLength - 1)];
   }
   return $randomString;
 }

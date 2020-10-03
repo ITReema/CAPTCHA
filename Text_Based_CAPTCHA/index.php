@@ -9,12 +9,12 @@
 
 <body>
   <div class="container">
-    <?php include('assets/alert_captcha.php'); ?>
-    <!-- Captcha error message -->
-    <?php if(!empty($captchaError)) {?>
+    <!-- Captcha error -->
+    <?php include('assets/alert_captcha.php');
+    if(!empty($captchaError)) {?>
       <div class="form-group text-center">
         <div class="alert text-center <?php echo $captchaError['status']; ?>">
-          <?php echo $captchaError['message']; ?>
+          <?php echo $captchaError['alert']; ?>
         </div>
       </div>
     <?php }?>
