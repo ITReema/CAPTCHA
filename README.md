@@ -1,5 +1,6 @@
 # CAPTCHA
-Simple Text_Based CAPTCHA
+Build simple Text Based CAPTCHA that used as a security in web applications.
+
 ## Requirement
 
 * [XAMPP](https://www.apachefriends.org/download.html)
