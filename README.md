@@ -11,17 +11,17 @@ Simple Text_Based CAPTCHA
 
 ## Screenshots
 <p align="center">
-<img width="300” alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/94979689-e4304280-052c-11eb-84ae-7744a3c77d6d.png">
+<img width="300” alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/95003969-ee664580-05ed-11eb-9e49-a459537e206e.png">
 </p>
 
 <p align="center">
-<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/94979693-e72b3300-052c-11eb-8bf1-35826f4671d9.png">
+<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/95003971-eefedc00-05ed-11eb-9c1b-467c87c6fb56.png">
 </p>
 
 <p align="center">
-<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/94979694-e85c6000-052c-11eb-9131-9b40da6f940c.png">
+<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/95003974-f0300900-05ed-11eb-9a99-fad31f4e5b59.png">
 </p>
 
 <p align="center">
-<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/94979695-e8f4f680-052c-11eb-82ab-b1af0cabc84f.png">
+<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/95003975-f1613600-05ed-11eb-96ce-e8018ebd177b.png">
 </p>
