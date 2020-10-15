@@ -9,7 +9,7 @@
 
 <body>
   <div class="container">
-    <!-- Captcha error -->
+    <!-- CAPTCHA error -->
     <?php include('assets/alert_captcha.php');
     if(!empty($captchaError)) {?>
       <div class="form-group text-center">
@@ -18,7 +18,7 @@
         </div>
       </div>
     <?php }?>
-
+    <!-- Form CAPTCHA -->
     <form action="" method="post">
       <div class="form-group center">
         <img src="assets/generate_captcha.php">
