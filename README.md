@@ -12,17 +12,17 @@ Build simple Text Based CAPTCHA that used as a security in web applications.
 
 ## Screenshots
 <p align="center">
-<img width="300” alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/95003969-ee664580-05ed-11eb-9e49-a459537e206e.png">
+<img width="300” alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/96062653-dff61480-0e9e-11eb-89ec-1c738cd305d4.png">
 </p>
 
 <p align="center">
-<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/95003971-eefedc00-05ed-11eb-9c1b-467c87c6fb56.png">
+<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/96062640-d8367000-0e9e-11eb-8fa2-ae829f8db60d.png">
 </p>
 
 <p align="center">
-<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/95003974-f0300900-05ed-11eb-9a99-fad31f4e5b59.png">
+<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/96062646-dbc9f700-0e9e-11eb-85de-fe09e1fba941.png">
 </p>
 
 <p align="center">
-<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/95003975-f1613600-05ed-11eb-96ce-e8018ebd177b.png">
+<img width="300”  alt="Screen Shot" src="https://user-images.githubusercontent.com/27751735/96062664-e7b5b900-0e9e-11eb-8ee3-ab347074566a.png">
 </p>
